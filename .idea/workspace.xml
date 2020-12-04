@@ -88,6 +88,11 @@
       <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
       <path value="$PROJECT_DIR$/vendor/symfony/validator" />
       <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
     </include_path>
   </component>
   <component name="ProjectId" id="1l33LWoUiExZEqyBvmYxGfsVt94" />
@@ -125,7 +130,7 @@
       <workItem from="1606915362669" duration="15912000" />
       <workItem from="1606956988915" duration="358000" />
       <workItem from="1606982493915" duration="14125000" />
-      <workItem from="1607002528423" duration="15794000" />
+      <workItem from="1607002528423" duration="20412000" />
     </task>
     <servers />
   </component>
@@ -137,10 +142,18 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="2974" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1607034285717" />
+    <state x="3283" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607045996053">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3283" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1607045996053" />
     <state x="3250" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606813460403">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="3250" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606813460403" />
+    <state x="3250" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1607044229074">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3250" y="275" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.2560.1400/2560.0.1920.1040@2560.0.1920.1040" timestamp="1607044229074" />
     <state x="3300" y="275" key="FileChooserDialogImpl" timestamp="1606999894331">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
